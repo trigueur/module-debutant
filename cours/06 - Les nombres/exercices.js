@@ -15,7 +15,7 @@
 // Exercice 2
 
 // Exercice 3
-
+hj
 // Exercice 4
 
 // Chassez le bogue 0
